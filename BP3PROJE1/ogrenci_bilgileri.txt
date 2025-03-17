@@ -1,0 +1,108 @@
+Ogrencinin Adi: Kevser
+Ogrencinin Soyadi: Arslan
+Ogrencinin Bolumu: Bilgisayar
+Ogrencinin Ortalamasi: 3.50
+Ogrencinin Aldigi Dersler:
+matematik
+Kredisi: 4
+Puan: 92
+fizik
+Kredisi: 3
+Puan: 67
+proglama
+Kredisi: 4
+Puan: 57
+tarih
+Kredisi: 2
+Puan: 98
+kimya
+Kredisi: 4
+Puan: 56
+tarih
+Kredisi: 2
+Puan: 45
+tarih
+Kredisi: 2
+Puan: 98
+proglama
+Kredisi: 4
+Puan: 30
+proglama
+Kredisi: 4
+Puan: 57
+fizik
+Kredisi: 3
+Puan: 58
+
+Ogrencinin Adi: Asya
+Ogrencinin Soyadi: Arslan
+Ogrencinin Bolumu: Biyomedikal
+Ogrencinin Ortalamasi: 3.45
+Ogrencinin Aldigi Dersler:
+matematik
+Kredisi: 4
+Puan: 80
+fizik
+Kredisi: 3
+Puan: 58
+proglama
+Kredisi: 4
+Puan: 30
+tarih
+Kredisi: 2
+Puan: 45
+matematik
+Kredisi: 4
+Puan: 92
+fizik
+Kredisi: 3
+Puan: 67
+proglama
+Kredisi: 4
+Puan: 57
+tarih
+Kredisi: 2
+Puan: 98
+kimya
+Kredisi: 4
+Puan: 56
+tarih
+Kredisi: 2
+Puan: 45
+
+Ogrencinin Adi: Bahar
+Ogrencinin Soyadi: Cavus
+Ogrencinin Bolumu: Endustiri
+Ogrencinin Ortalamasi: 2.47
+Ogrencinin Aldigi Dersler:
+matematik
+Kredisi: 4
+Puan: 80
+fizik
+Kredisi: 3
+Puan: 67
+proglama
+Kredisi: 4
+Puan: 30
+kimya
+Kredisi: 4
+Puan: 56
+matematik
+Kredisi: 4
+Puan: 80
+fizik
+Kredisi: 3
+Puan: 58
+proglama
+Kredisi: 4
+Puan: 30
+tarih
+Kredisi: 2
+Puan: 45
+matematik
+Kredisi: 4
+Puan: 92
+fizik
+Kredisi: 3
+Puan: 67
+
